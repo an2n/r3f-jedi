@@ -12,6 +12,9 @@
   "overrides": {
     "leva": {
       "@radix-ui/react-portal": "1.0.2"
+    },
+    "vite": {
+      "rollup": "npm:@rollup/wasm-node"
     }
   },
   "dependencies": {
