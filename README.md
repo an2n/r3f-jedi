@@ -1,4 +1,4 @@
-# r3f-jedi
+# r3f-jedi-app
 
 This is an interactive 3D application built with React/TypeScript and React Three Fiber.
 
