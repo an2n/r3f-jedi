@@ -104,7 +104,7 @@ export function Jedi(props: JSX.IntrinsicElements["group"]) {
     roughness: { value: 0.5, min: 0, max: 1, step: 0.01 },
     metalness: { value: 0.5, min: 0, max: 1, step: 0.01 },
     emissive: { value: "#ff00ff" },
-    emissiveIntensity: { value: 5, min: 0, max: 10, step: 0.1 },
+    emissiveIntensity: { value: 10, min: 0, max: 10, step: 0.1 },
     opacity: { value: 0.7, min: 0, max: 1, step: 0.01 },
     lightIntensity: { value: 1.5, min: 0, max: 10, step: 0.1 },
     lightDistance: { value: 5, min: 0, max: 20, step: 0.1 },
