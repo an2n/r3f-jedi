@@ -3,7 +3,7 @@
 This is an interactive 3D application built with React/TypeScript and React Three Fiber.
 
 ## Demo
-[![View an2n/r3f-jedi-app/main](https://codesandbox.io/static/img/play-codesandbox.svg)](https://krnqpl-5173.csb.app/)
+[![View an2n/r3f-jedi-app/main](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/an2n/r3f-jedi-app/main)
 
 ![jedi](https://github.com/user-attachments/assets/854f1457-210a-414c-abdd-e3dde6b35a8a)
 
